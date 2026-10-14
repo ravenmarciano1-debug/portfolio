@@ -29,7 +29,7 @@ export default function Home() {
 
                 <dl className="hero-meta">
                   <div><dt>Role</dt><dd>Senior Web Developer</dd></div>
-                  <div><dt>Experience</dt><dd>8 years</dd></div>
+                  <div><dt>Experience</dt><dd>8+ years</dd></div>
                   <div><dt>Location</dt><dd>the Philippines · Remote</dd></div>
                 </dl>
 
