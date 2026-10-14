@@ -1,5 +1,5 @@
 const skills = {
-  WordPress: ['WordPress', 'WooCommerce', 'Gutenberg', 'ACF', 'Elementor'],
+  WordPress: ['WordPress', 'WooCommerce', 'Gutenberg', 'ACF', 'Elementor', 'Shopify'],
   Languages: ['PHP', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'Python', 'Java', 'Bash'],
   Frontend: ['React', 'Next.js', 'TailwindCSS'],
   Backend: ['WordPress REST API', 'REST APIs', 'Node.js', 'Express.js', 'Laravel'],
