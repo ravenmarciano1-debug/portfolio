@@ -45,7 +45,7 @@ export default function Navbar() {
       <div className="container">
         <nav className="nav" aria-label="Primary">
           <Link className="brand" href="/" aria-label="Raven Marciano, home">
-            <span className="brand-text">Raven Marciano</span>
+            <span className="brand-text">RM</span>
           </Link>
           <button
             className="nav-toggle"
