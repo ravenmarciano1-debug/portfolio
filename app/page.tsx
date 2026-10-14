@@ -14,7 +14,7 @@ export default function Home() {
               <div data-reveal>
                 <h1>Raven Marciano</h1>
                 <p className="lede">
-                  Senior Web Developer with 8+ years of experience building modern, high-performing websites for businesses across Southeast Asia and the Australia. Experienced in leading web development teams, managing complex projects, and delivering SEO-friendly, user-focused, and performance-driven websites that help businesses grow online.
+                  Senior Web Developer with 8+ years of experience in building modern, high-performing websites for businesses across Southeast Asia and the Australia. Experienced in leading web development teams, managing complex projects, and delivering SEO-friendly, user-focused, and performance-driven websites that help businesses grow online.
                 </p>
                 <div className="hero-cta">
                   <Link className="btn btn-primary" href="/portfolio">
@@ -29,7 +29,7 @@ export default function Home() {
 
                 <dl className="hero-meta">
                   <div><dt>Role</dt><dd>Senior Web Developer</dd></div>
-                  <div><dt>Experience</dt><dd>8 years</dd></div>
+                  <div><dt>Experience</dt><dd>8+ years</dd></div>
                   <div><dt>Location</dt><dd>the Philippines · Remote</dd></div>
                 </dl>
 
